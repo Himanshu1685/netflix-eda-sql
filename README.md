@@ -1,6 +1,6 @@
 #  Netflix EDA Using SQL
 
-![Project Logo](https://github.com/Priyanshupriyadarshi29/netflix-eda-using-sql/blob/main/logo.png)
+![Project Logo](https://github.com/Himanshu1685/netflix-eda-sql/blob/main/logo.png)
 
 A deep dive into Netflix’s content catalog through **15+ SQL-powered business queries**—analyzing content types, genres, trends, and global distribution to uncover data-driven insights.
 
@@ -103,10 +103,9 @@ LIMIT 5;
 
 ##  How to Get Started
 
-1. Clone the project:
-   ```bash
-   git clone https://github.com/Priyanshupriyadarshi29/netflix-eda-using-sql.git
-   cd netflix-eda-using-sql
+1. git clone https://github.com/Himanshu1685/netflix-eda-sql.git
+cd netflix-eda-sql
+
    ```
 
 2. Set up your SQL environment (SQLite, PostgreSQL, MySQL, etc.).
@@ -121,9 +120,7 @@ LIMIT 5;
 
 ##  About Me
 
-Hi, I'm **Priyanshu Priyadarshi**—a data analysis enthusiast passionate about SQL-powered insights and storytelling through data.
-
-- GitHub: [@Priyanshupriyadarshi29](https://github.com/Priyanshupriyadarshi29)  
+Hi, I'm **Himanshu Kumar Pandey**—a data analysis enthusiast passionate about SQL-powered insights and storytelling through data.
 
 ---
 
